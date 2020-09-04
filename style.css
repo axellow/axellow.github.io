@@ -673,7 +673,7 @@ to { opacity: 1 }
   text-align: center;
 }
 #image_01{
-  background-image: url("C:/Users/user/Desktop/верстка/Сайты/S&N family/img/bg/first_pic.jpg");
+  background-image: url("img/bg/first_pic.jpg");
   background-size:470px;
   width:400px;
   height:260px;
@@ -753,7 +753,7 @@ to { opacity: 1 }
   opacity:0.0;
 }
 #image_02{
-  background-image: url("C:/Users/user/Desktop/верстка/Сайты/S&N family/img/bg/second_pic.jpg");
+  background-image: url("img/bg/second_pic.jpg");
   background-size:470px;
   width:400px;
   height:260px;
@@ -837,7 +837,7 @@ to { opacity: 1 }
   opacity:0.0;
 }
 #image_03{
-  background-image: url("C:/Users/user/Desktop/верстка/Сайты/S&N family/img/bg/third_pic.jpg");
+  background-image: url("img/bg/third_pic.jpg");
   background-size:470px;
   width:400px;
   height:260px;
